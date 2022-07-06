@@ -1,6 +1,6 @@
 # Sistema de contatos integrado ao Hubspot
 
-O desafio proposto foi desenvolver uma aplicação que esta totalmente integrada com o Hubspot, onde será possível enviar novos contatos, edita-los e visualizalos.
+O desafio proposto foi desenvolver uma aplicação que esta totalmente integrada com o Hubspot, onde será possível enviar novos contatos, edita-los e visualiza-los.
 
 <h2>Tecnologias Utilizadas</h2>
 Esse projeto foi desenvolvido utilizando:
