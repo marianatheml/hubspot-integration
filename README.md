@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido utilizando:
 
 <h2>Back-end</h2>
 Foi feito um CRUD com os seguintes métodos: GET, PUT e POST. Criando funções que, podem ser vistas no controller, e integrando com os endpoints da API do Hubspot.
-Toda comunicação entre as APIs foi realizada utilizando <a href="https://axios-http.com/ptbr/docs/intro">axios</a> e a integração com o Hubspot foi toda feita como indicado na [documentação](https://developers.hubspot.com/docs/api/developer-guides-resources) do mesmo.
+Toda comunicação entre as APIs foi realizada utilizando <a href="https://axios-http.com/ptbr/docs/intro">axios</a> e a integração com o Hubspot foi toda feita como indicado na <a href="https://developers.hubspot.com/docs/api/developer-guides-resources">documentação</a> do mesmo.
 <br>
 <br>
 As propriedades do contato foram o e-mail, o telefone e a data de aniversário. 
