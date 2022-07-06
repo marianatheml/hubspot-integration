@@ -1,0 +1,32 @@
+{
+  "name": "hubspot-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Mariana Theml",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "morgan": "^1.10.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianatheml/hubspot-integration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marianatheml/hubspot-integration/issues"
+  },
+  "homepage": "https://github.com/marianatheml/hubspot-integration#readme",
+  "description": ""
+}
